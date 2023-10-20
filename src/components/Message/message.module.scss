@@ -1,0 +1,21 @@
+.msgContainer {
+  background-color: #84a3da75;
+  padding: 5px 15px 8px 8px;
+  margin: 10px 0;
+  border-radius: 5px;
+  width: fit-content;
+
+  .name {
+    font-size: 14px;
+    color: rgb(132, 129, 129);
+    margin-right: 5px;
+  }
+  .time{
+    font-size: 14px;
+    color: gray;
+  }
+
+  .msgText {
+    margin: 0;
+  }
+}
